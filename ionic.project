@@ -1,0 +1,12 @@
+{
+  "name": "logik",
+  "app_id": "495ffec3",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
